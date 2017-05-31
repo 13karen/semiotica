@@ -37,7 +37,7 @@
       </div>
         <div class= "col-sm-6 col-md-6">
           <div class="thumbnail">
-            <img class="img-responsive" src="img/significante.jpg" alt="icono">
+            <img class="img-responsive" src="img/significante.jpeg" alt="icono">
             
             </div>
           </div>
