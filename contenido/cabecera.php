@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Semiotica</title>
-    <link href="/Semiotica/css/bootstrap.css" rel="stylesheet">
+    <link href="/semiotica/css/bootstrap.css" rel="stylesheet">
 
   </head>
   <body>
@@ -47,17 +47,17 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/Semiotica/img/01.jpg" alt="B1">
+      <img src="/semiotica/img/01.jpg" alt="B1">
       <div class="carousel-caption">
       </div>
     </div>
     <div class="item">
-      <img src="/Semiotica/img/02.jpg" alt="B2" align="center">
+      <img src="/semiotica/img/02.jpg" alt="B2" align="center">
       <div class="carousel-caption">
       </div>
     </div>
     <div class="item">
-      <img src="/Semiotica/img/03.jpg" alt="B2" align="center">
+      <img src="/semiotica/img/03.jpg" alt="B2" align="center">
       <div class="carousel-caption">
       </div>
     </div>
