@@ -12,14 +12,22 @@
     <?php include('contenido/cabecera.php'); ?>
     <!-- -->
 
-    <div class="container">
-      <div class="panel panel-primary">
+ <div class= "container">
+      <div class="row ">
+      <div class="panel panel-primary col-sm-6 col-md-6">
         <div class="panel-heading">
           <h3 class="panel-title">Icono</h3>
         </div>
         <div class="panel-body">
           Una imagen o representación que sustituye a un objeto simbólicamente, se refiere a imágenes signos y símbolos que son utilizados para representar conceptos u objetos.
         </div>
+        <div class= "col-sm-6 col-md-6">
+          <div class="thumbnail">
+            <img class="img-responsive" src="img/icono.jpeg" alt="icono">
+            
+            </div>
+          </div>
+       </div>
       </div>
     </div>
 
