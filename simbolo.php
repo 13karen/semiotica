@@ -24,7 +24,7 @@
       </div>
         <div class= "col-sm-4 col-md-4">
           <div class="thumbnail">
-            <img class="img-responsive" src="img/icono.jpg" alt="icono">
+            <img class="img-responsive" src="img/sombolo.jpeg" alt="icono">
             </div>
           </div>
        </div>
