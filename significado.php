@@ -23,7 +23,8 @@
       </div>
     </div>
     <div class= "container">
-      <div class="panel panel-success">
+      <div class="row ">
+          <div class="panel panel-success col-sm-6 col-md-6">
         <div class="panel-heading">
           <h3 class="panel-title">Ejemplos</h3>
         </div>
@@ -34,7 +35,14 @@
           <h4 style="color:#088A08;">Significado:</h4> Indica a otro vehículo que debe apurarse moverse o apartarse
         </div>
       </div>
-    </div>
+        <div class= "col-sm-6 col-md-6">
+          <div class="thumbnail">
+            <img class="img-responsive" src="img/significado.jpeg" alt="icono">
+            
+            </div>
+          </div>
+       </div>
+ </div>
 
     <!--Pie de pagina -->
     <?php include('contenido/pie.php'); ?>
