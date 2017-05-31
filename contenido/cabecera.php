@@ -47,17 +47,17 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/semiotica/img/01.jpg" alt="B1">
+      <img src="../img/01.jpg" alt="B1">
       <div class="carousel-caption">
       </div>
     </div>
     <div class="item">
-      <img src="/semiotica/img/02.jpg" alt="B2" align="center">
+      <img src="../img/02.jpg" alt="B2" align="center">
       <div class="carousel-caption">
       </div>
     </div>
     <div class="item">
-      <img src="/semiotica/img/03.jpg" alt="B2" align="center">
+      <img src="../img/03.jpg" alt="B2" align="center">
       <div class="carousel-caption">
       </div>
     </div>
