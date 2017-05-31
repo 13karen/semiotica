@@ -22,9 +22,9 @@
         </div>
       </div>
     </div>
-
-    <div class= "container">
-      <div class="panel panel-info">
+<div class= "container">
+      <div class="row ">
+         <div class="panel panel-info col-sm-6 col-md-6">
         <div class="panel-heading">
           <h3 class="panel-title">Ejemplos</h3>
         </div>
@@ -35,7 +35,16 @@
           <h4 style="color:#00BFFF;">Significante:</h4> El sonido del pito de un automóvil repetidamente
         </div>
       </div>
-    </div>
+        <div class= "col-sm-6 col-md-6">
+          <div class="thumbnail">
+            <img class="img-responsive" src="img/significante.jpg" alt="icono">
+            
+            </div>
+          </div>
+       </div>
+ </div>
+    
+     
 
     <!--Pie de pagina -->
     <?php include('contenido/pie.php'); ?>
