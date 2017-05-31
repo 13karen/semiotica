@@ -14,7 +14,7 @@
 
     <div class= "container">
       <div class="row ">
-        <div class="panel panel-primary">
+        <div class="panel panel-primary col-sm-6 col-md-6">
         <div class="panel-heading">
           <h3 class="panel-title">Simbolo</h3>
         </div>
@@ -22,7 +22,7 @@
           Sirve para representar de alguna manera, una idea que puede percibirse a partir de los sentidos y que presenta rasgos vinculados a una convención aceptada a nivel social
         </div>
       </div>
-        <div class= "col-sm-4 col-md-4">
+        <div class= "col-sm-6 col-md-6">
           <div class="thumbnail">
             <img class="img-responsive" src="img/sombolo.jpeg" alt="icono">
             </div>
